@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://securityrelief.com/sitemap.xml
