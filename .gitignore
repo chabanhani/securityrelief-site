@@ -1,0 +1,6 @@
+# Editor / atomic-write temp files
+*.tmp
+*.tmp.*
+*~
+.DS_Store
+Thumbs.db
