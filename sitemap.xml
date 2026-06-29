@@ -13,4 +13,9 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://securityrelief.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://securityrelief.com/"/>
   </url>
+  <url>
+    <loc>https://securityrelief.com/dalil/ncnicc-applicability/</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://securityrelief.com/dalil/ncnicc-applicability/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://securityrelief.com/dalil/ncnicc-applicability/"/>
+  </url>
 </urlset>
