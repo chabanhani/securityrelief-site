@@ -193,3 +193,18 @@ footer a:hover{color:#fff}
     padding:14px 24px;gap:4px;box-shadow:var(--shadow);z-index:60}
   .nav-links.open a{padding:11px 0;border-bottom:1px solid var(--wash)}
 }
+
+/* --- FAQ (agent-seo Phase-1: visible block backing the FAQPage schema) --- */
+.faq{padding:64px 0;background:var(--cloud)}
+.faq h2{font-size:clamp(24px,3vw,34px);color:var(--ink);margin:0 0 28px;text-align:center}
+.faq-list{max-width:760px;margin-inline:auto;display:flex;flex-direction:column;gap:12px}
+.faq details{background:var(--white);border:1px solid var(--wash);border-radius:14px;
+  box-shadow:0 6px 20px -16px rgba(20,33,61,.40);overflow:hidden}
+.faq summary{cursor:pointer;list-style:none;padding:18px 22px;font-weight:700;color:var(--ink);
+  display:flex;justify-content:space-between;align-items:center;gap:14px;font-size:16px}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";color:var(--royal);font-size:22px;font-weight:600;
+  line-height:1;flex:none}
+.faq details[open] summary::after{content:"\2212"}
+.faq summary:hover{background:var(--sky-wash)}
+.faq details p{margin:0;padding:0 22px 20px;color:var(--slate);line-height:1.85;font-size:15px}
