@@ -16,6 +16,13 @@
   <url>
     <loc>https://securityrelief.com/dalil/ncnicc-applicability/</loc>
     <xhtml:link rel="alternate" hreflang="ar" href="https://securityrelief.com/dalil/ncnicc-applicability/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://securityrelief.com/en/dalil/ncnicc-applicability/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://securityrelief.com/dalil/ncnicc-applicability/"/>
+  </url>
+  <url>
+    <loc>https://securityrelief.com/en/dalil/ncnicc-applicability/</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://securityrelief.com/dalil/ncnicc-applicability/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://securityrelief.com/en/dalil/ncnicc-applicability/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://securityrelief.com/dalil/ncnicc-applicability/"/>
   </url>
   <url>
